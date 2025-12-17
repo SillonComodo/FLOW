@@ -32,7 +32,7 @@ El comando instala todo lo declarado en `package.json`, incluyendo:
 
 ---
 
-# Flow: entorno académico para la carrera
+# Flow: entorno de desarrollo para la carrera
 
 Flow es un espacio de trabajo integral para estudiantes universitarios que combina panel de control, gestor de pendientes, herramientas de estudio con IA y flujos de automatización sobre una aplicación de escritorio intuitiva.
 
